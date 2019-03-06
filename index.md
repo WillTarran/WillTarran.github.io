@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Will's Project Page
 
-You can use the [editor on GitHub](https://github.com/WillTarran/WillTarran.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Basically, this is a collection of odds and sods that I find interesting, but I'll start with a micro-Bio:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bio
 
-### Markdown
+Some things about me, in no particular order
+- Big outdoors fan, still pretending to be a committed climber despite lack of time and access
+- (very) junior level autodidact in historic internal combustion engineering
+- Currently a research chemist, trying to drag others into the software-age
+- A self-proclaimed failure in devising useful and interesting home Raspberry Pi projects
+- Enjoy learning almost anything, if time allows
+- Current mad idea - acquire '70s Mini and DIY convert to full Electric Vehicle
+- Not a fan of Identity Politics, but if I had to pick one; probably <a href="https://www.codecogs.com/eqnedit.php?latex=e^{i\pi}-1=0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?e^{i\pi}+1=0" title="e^{i\pi}+1=0" /></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Links to stuff
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WillTarran/WillTarran.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+errr... maybe later
