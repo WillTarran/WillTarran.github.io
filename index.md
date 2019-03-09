@@ -12,7 +12,7 @@ Some things about me, in no particular order
 - Enjoy learning almost anything, if time allows
 - Current mad idea - acquire '70s Mini and DIY convert to full Electric Vehicle
 - Not a fan of Identity Politics, but if I had to pick one; probably <img src="https://latex.codecogs.com/gif.latex?e^{i\pi}+1=0" title="e^{i\pi}+1=0" />  
-<img src="Fig/Oil.jpg" title="Oily" style="height:144px;"><img src="Fig/Brosnow.jpg" title="Bro" style="height:144px;"><img src="Fig/Tent.jpg" title="Tent" style="height:144px;"><img src="Fig/Fan.jpg" title="Fan" style="height:144px;"><img src="Fig/Alp.jpg" title="Aguilles" style="height:144px;">
+<img src="Fig/Oil.jpg" title="Oily" style="height:100px;"><img src="Fig/Tent.jpg" title="Tent" style="height:100px;"><img src="Fig/BroSnow.jpg" title="Bro" style="height:100px;"><img src="Fig/Fan.jpg" title="Fan" style="height:100px;"><img src="Fig/Alp.jpg" title="Aguilles" style="height:100px;">
 
 ### Links to stuff
 
