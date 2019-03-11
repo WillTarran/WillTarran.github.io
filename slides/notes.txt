@@ -6,4 +6,4 @@ sed s/simple.css/sky.css/
 
 insert the following for footer as defined in custom.css after <div class="reveal"> :
 
-<div class="footer"><a href="../../" title="GitHub Pages Index">take me home...</a></div>
+<div class="footer"><a href="../" title="GitHub Pages Index">take me home...</a></div>
