@@ -1,0 +1,9 @@
+convert notebook with basic args:
+jupyter nbconvert --to slides filename.ipynb
+
+[haven't got SlidesExporter.reveal_theme=sky working...]
+sed s/simple.css/sky.css/
+
+insert the following for footer as defined in custom.css after <div class="reveal"> :
+
+<div class="footer"><a href="../../" title="GitHub Pages Index">take me home...</a></div>

@@ -7,27 +7,22 @@
  * Currently only minor tweaks as override for reveal.js themes
  */
 
-/*********************************************
- * GLOBAL STYLES
- *********************************************/
-body {
-  background: #add9e4;
-  background: -moz-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
-  background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #f7fbfc), color-stop(100%, #add9e4));
-  background: -webkit-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
-  background: -o-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
-  background: -ms-radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
-  background: radial-gradient(center, circle cover, #f7fbfc 0%, #add9e4 100%);
-  background-color: #f7fbfc; }
-
-.reveal {
-  font-family: "Open Sans", sans-serif;
-  font-size: 40px;
-  font-weight: normal;
-  color: #333; }
-
+/****************************
+Footer format for adding return link
+*****************************/
 .footer {
   position: absolute;
   bottom: 10px;
   left: 10px; 
   z-index: 10; }
+
+/****************************
+Adjustments to rendered markdown text and cell output images
+to limit spill to bottom of page.  Auto scaling puts content
+right at the bottom...
+*****************************/
+div.text_cell_render {
+  font-size: 90%; }
+
+div.output_area img {
+  height: 80%; }
