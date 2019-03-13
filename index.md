@@ -27,5 +27,4 @@ Some things about me, in no particular order
 <a href="https://uk.linkedin.com/in/william-tarran-a28a5037" title="iN" target="_blank"><img src="Fig/li.png" alt="Linky"></a>
 <a href="https://twitter.com/willtarran" title="T" target="_blank"><img src="Fig/tw.png" alt="Tweef" style="width:14px;height:14px;"></a>
 
-[Codeworks](slides/DataAdventure.html)
 
