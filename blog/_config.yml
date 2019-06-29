@@ -1,3 +1,7 @@
-collections:
-  topics:
-    output: true
+# Site settings
+title: Hacking Mechanics [badly]
+description: A collection of random stuff
+keywords: VW, Type 2, Code
+author: Will Tarran
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site

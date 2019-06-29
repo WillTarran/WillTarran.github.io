@@ -22,6 +22,7 @@ Some things about me, in no particular order
 ### Links to stuff
 
 [tester notebook slides](slides/test.slides.html)  
+[BLOG](blog/index.html)
 
 <a href="https://www.facebook.com/will.tarran" title="FB" target="_blank"><img src="Fig/fb.png" alt="MyFace" style="width:14px;height:14px;"></a>
 <a href="https://uk.linkedin.com/in/william-tarran-a28a5037" title="iN" target="_blank"><img src="Fig/li.png" alt="Linky"></a>
