@@ -3,5 +3,5 @@ title: Hacking Mechanics [badly]
 description: A collection of random stuff
 keywords: VW, Type 2, Code
 author: Will Tarran
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: /blog # the subpath of your site, e.g. /blog/
+url: https://willtarran.github.io # the base hostname & protocol for your site

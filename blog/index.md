@@ -1,6 +1,6 @@
 ---
 layout: main
-topic: "Index"
+topic: Index
 ---
 ## A simple overview of the blog
 
