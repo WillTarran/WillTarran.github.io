@@ -2,6 +2,7 @@
 title:  "So it begins!"
 subtitle: "Today we bought a bus"
 author: "Will"
+topic: "Buddy"
 avatar: "img/authors/will.jpeg"
 image: "img/IMG_0084.png"
 date:   2018-07-28 23:59:59
