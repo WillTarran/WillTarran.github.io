@@ -1,1 +1,9 @@
-theme: jekyll-theme-architect
+# Site settings
+title: Hacking Mechanics [badly]
+description: A collection of random stuff
+keywords: VW, Type 2, Code
+author: Will Tarran
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://willtarran.github.io/blog/ # the base hostname & protocol for your site
+
+markdown: kramdown

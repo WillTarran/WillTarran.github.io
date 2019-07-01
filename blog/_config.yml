@@ -1,7 +1,0 @@
-# Site settings
-title: Hacking Mechanics [badly]
-description: A collection of random stuff
-keywords: VW, Type 2, Code
-author: Will Tarran
-baseurl: /blog # the subpath of your site, e.g. /blog/
-url: https://willtarran.github.io # the base hostname & protocol for your site

@@ -24,25 +24,40 @@ layout: compress
             root.setAttribute('class', 'ff');
         }
     </script>
+    <script type="text/x-mathjax-config">
+     MathJax.Hub.Config({
+       extensions: ["tex2jax.js"],
+       jax: ["input/TeX", "output/HTML-CSS"],
+       tex2jax: {
+         inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+         displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+         processEscapes: true
+       },
+     "HTML-CSS": { fonts: ["TeX"] }
+     });
+    </script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js"></script>
 </head>
 <body class="body">
 <div class="container">
     <header class="header">
-        <h1>Hacking Mechanics<span>{{ "Keeping on rolling, one `[breakdown || bug]` at a time..." | markdownify }}</span></h1>
+        <h1>Hacking Mechanics<span>{{ "tbc..., one `[breakdown || bug]` at a time..." | markdownify }}</span></h1>
         <nav class="links">
             <a href="/"><i class="fa-3x">Home</i></a>
             <a href="/buddy.html"><i class="fa-3x">Van</i></a>
             <a href="https://www.facebook.com/will.tarran" target="_blank"><i class="fa fa-facebook-square fa-3x"></i></a>
             <a href="https://twitter.com/WillTarran" target="_blank"><i class="fa fa-twitter-square fa-3x"></i></a>
-            <a href="/../"><i class="fa fa-github-square fa-3x">.pages</i></a>
+            <a href="https://github.com/WillTarran"><i class="fa fa-github-square fa-3x"></i></a>
         </nav>
     </header>
+    <div style="text-align: center;">
+        <div style="width: 60%; display: inline-block; text-align: left;">{{ content }}</div>
+    </div>
     <div class="content">
         <!-- trianglify pattern container -->
         <div class="pattern pattern--hidden"></div>
         <!-- cards -->
         <div class="wrapper">
-            <div align="center">{{ content }}</div>
             {% for post in site.posts %}
             {% if post.topic == page.topic %}
             <div class="card" data-id="{{ post.id }}">
